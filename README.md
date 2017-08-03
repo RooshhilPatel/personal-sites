@@ -441,6 +441,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Ron Wright http://ronwright.me
 - Ronak Shah http://ronakshah.net
 - Rootul Patel http://rootulp.com/
+- Rooshhil Patel http://rooshhilpatel.com
 - Rosy Gupta http://rosygupta.github.io
 - Ruiqi Mao http://www.ruiqimao.com/
 - Rushi Shah http://www.rshah.io/
